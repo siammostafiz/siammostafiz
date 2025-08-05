@@ -1,24 +1,86 @@
-# 💫 About Me:
-Hi, I'm Mostafizur Rahman Siam, an Environmental Economist with a strong interest in technology and system administration. I have hands-on experience managing both Linux and Windows servers, configuring networks, and working with open-source tools. I'm passionate about system security, server infrastructure, and automation.<br><br>I'm continuously expanding my skills in Linux server configuration, networking, and IT infrastructure, and I'm eager to contribute to real-world projects. If you're working on something exciting, feel free to reach out — I’d love to collaborate!
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siammostafiz/) 
-
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siammostafiz&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=siammostafiz&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siammostafiz&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=siammostafiz&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true)
+<h1 align="center">MD MOSTAFIZUR RAHAMAN</h1>
+<p align="center">
+  🌍 <strong>System Administrator | Shopify Developer | Front-End Web Designer | Network Engineer</strong> 🌐
+</p>
+<p align="center">
+  <i>Empowering businesses with scalable server infrastructure, secure networks, and elegant digital experiences.</i>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siammostafiz&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+Hi! I'm **Mostafizur**, a multi-skilled IT professional from Bangladesh. With a background in Environmental Economics and hands-on experience in **Linux, Windows Server**, **MikroTik Router Configuration**, **Red Hat Enterprise Systems**, and **Shopify Development**, I blend **technical depth** with **aesthetic design** to solve real-world problems.
+
+🔹 I am currently pursuing a **Diploma in Network & System Administration (ISDB-BISEW)**  
+🔹 I specialize in building and managing **secure, scalable infrastructure**  
+🔹 I develop **responsive e-commerce stores** and **interactive web front ends**  
+🔹 I am preparing to apply for **Tech Jobs in the USA**
+
+---
+
+## 🛠️ Skills & Expertise
+
+### 💻 System & Network Administration
+- Linux (Red Hat, Ubuntu), Windows Server 2019/2022
+- Active Directory, DNS, DHCP, Group Policy
+- Bash scripting, PowerShell
+- MikroTik, Cisco (CCNA Level), Static/Dynamic Routing
+- Virtualization: VMware, VirtualBox, Hyper-V
+
+### 🌐 Web Development
+- Shopify Theme Customization & Store Setup
+- HTML5, CSS3, Bootstrap, TailwindCSS
+- JavaScript (basic), jQuery
+- React.js (Beginner)
+
+### 🧰 Tools & Technologies
+- Git, GitHub, GitHub Pages
+- VS Code, PuTTY, WinSCP, FileZilla
+- Postman, Google Developer Tools
+- Photoshop (UI/UX basics)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siammostafiz&show_icons=true&theme=transparent&hide_title=false" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siammostafiz&layout=compact&hide=shaderlab&theme=transparent" alt="Top Languages" />
+</p>
+
+---
+
+## 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🚀 My Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|-------------|
+| **Linux Mail Server** | Configured Mail Server using Postfix & Dovecot | Red Hat, Bash |
+| **Shopify Store Setup** | Custom-built responsive Shopify eCommerce site | Shopify, Liquid, CSS |
+| **Static IP Network Lab** | Built and managed network topology with static routing | MikroTik, Cisco, Winbox |
+| **Portfolio Website** | My own developer portfolio website | HTML, CSS, GitHub Pages |
+
+🔗 **Live Site**: [Visit my website 🌐](https://siammostafiz.github.io/siammosta)
+
+---
+
+## 📬 Contact Me
+
+- 📧 **Email**: siammostafiz@gmail.com  
+- 🌐 **Website**: [siammostafiz.github.io/siammosta](https://siammostafiz.github.io/siammosta/)  
+- 💼 **LinkedIn**: [linkedin.com/in/siammostafiz](https://www.linkedin.com/in/siammostafiz/)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siammostafiz&style=for-the-badge&color=green" alt="Profile Views" />
+</p>
